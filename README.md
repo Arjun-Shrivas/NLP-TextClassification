@@ -90,6 +90,4 @@ The objective is to develop a solution that can classify a collection of news ar
 Arjun Shrivas  
 *Data Science Enthusiast*
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
